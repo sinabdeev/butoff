@@ -1,0 +1,3 @@
+begin
+Result:=x+dWiner(n);
+end;
